@@ -1,7 +1,7 @@
 local a = 10 
 print (type(a)) -- number
 
-a= nil
+a = nil
 print (type(a)) --nil
 
 a = "hello"
